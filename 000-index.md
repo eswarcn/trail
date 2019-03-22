@@ -13,7 +13,7 @@ weight: 001
 2. [Cloud Native Application Bundle Registry 1.0.0 (CNAB-Reg)](200-cnab-registries.md)
 3. [Cloud Native Application Bundle Security 1.0.0 (CNAB-Sec)](300-cnab-security.md)
 4. [Cloud Native Application Bundle Claims 1.0.0 (CNAB-Claims1)](400-claims.md)
-5. Non-normative Sections
+<!-- 5. Non-normative Sections -->
     - [Declarative Bundles](801-declarative-images.md)
     - [Credential Sets](802-credential-sets.md)
     - [Base Bundles](803-base-bundles.md)
